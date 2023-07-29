@@ -1,0 +1,30 @@
+﻿  main.cpp
+D:\Visual Studio\Projects\assign01\assign1_todo_(win-vs2017)\main.cpp(55,33): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+D:\Visual Studio\Projects\assign01\assign1_todo_(win-vs2017)\main.cpp(55,38): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+D:\Visual Studio\Projects\assign01\assign1_todo_(win-vs2017)\main.cpp(55,43): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+D:\Visual Studio\Projects\assign01\assign1_todo_(win-vs2017)\main.cpp(58,31): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+D:\Visual Studio\Projects\assign01\assign1_todo_(win-vs2017)\main.cpp(58,36): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+D:\Visual Studio\Projects\assign01\assign1_todo_(win-vs2017)\main.cpp(58,41): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+D:\Visual Studio\Projects\assign01\assign1_todo_(win-vs2017)\main.cpp(66,35): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+D:\Visual Studio\Projects\assign01\assign1_todo_(win-vs2017)\main.cpp(66,40): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+D:\Visual Studio\Projects\assign01\assign1_todo_(win-vs2017)\main.cpp(66,45): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+D:\Visual Studio\Projects\assign01\assign1_todo_(win-vs2017)\main.cpp(67,35): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+D:\Visual Studio\Projects\assign01\assign1_todo_(win-vs2017)\main.cpp(67,40): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+D:\Visual Studio\Projects\assign01\assign1_todo_(win-vs2017)\main.cpp(67,45): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+D:\Visual Studio\Projects\assign01\assign1_todo_(win-vs2017)\main.cpp(68,36): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+D:\Visual Studio\Projects\assign01\assign1_todo_(win-vs2017)\main.cpp(68,41): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+D:\Visual Studio\Projects\assign01\assign1_todo_(win-vs2017)\main.cpp(68,46): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+D:\Visual Studio\Projects\assign01\assign1_todo_(win-vs2017)\main.cpp(72,35): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+D:\Visual Studio\Projects\assign01\assign1_todo_(win-vs2017)\main.cpp(72,40): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+D:\Visual Studio\Projects\assign01\assign1_todo_(win-vs2017)\main.cpp(72,45): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+D:\Visual Studio\Projects\assign01\assign1_todo_(win-vs2017)\main.cpp(73,35): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+D:\Visual Studio\Projects\assign01\assign1_todo_(win-vs2017)\main.cpp(73,40): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+D:\Visual Studio\Projects\assign01\assign1_todo_(win-vs2017)\main.cpp(73,45): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+D:\Visual Studio\Projects\assign01\assign1_todo_(win-vs2017)\main.cpp(74,36): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+D:\Visual Studio\Projects\assign01\assign1_todo_(win-vs2017)\main.cpp(74,41): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+D:\Visual Studio\Projects\assign01\assign1_todo_(win-vs2017)\main.cpp(74,46): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+D:\Visual Studio\Projects\assign01\assign1_todo_(win-vs2017)\main.cpp(501,33): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\Visual Studio\Projects\assign01\assign1_todo_(win-vs2017)\main.cpp(501,38): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\Visual Studio\Projects\assign01\assign1_todo_(win-vs2017)\main.cpp(501,43): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/OPT:ICF”规范)
+  main.vcxproj -> D:\Visual Studio\Projects\assign01\assign1_todo_(win-vs2017)\Release\main.exe
